@@ -39,8 +39,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-londono&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center"
   <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-londono&theme=vision-friendly-dark&hide_border=false" />
-  <br/>
 </div>  
 ---
 
