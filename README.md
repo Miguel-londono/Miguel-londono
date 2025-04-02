@@ -1,8 +1,11 @@
-## Hi, I'm Miguel Londoño! 👋  
+<div align="center">
 
-A soon-to-be graduate in Systems Engineering with a strong passion for technology and software development.  
-Experienced in both **frontend** and **backend development**, with knowledge of **JavaScript, React, Next.js, Astro, Python, Java, Node.js, SQL, and more**.  
-Familiar with **agile methodologies** and always eager to learn, collaborate, and build user-centric solutions that add real value. 🚀  
+# Hi, I'm Miguel Londoño! 👋  
+
+💡 A soon-to-be graduate in **Systems Engineering** with a strong passion for technology and software development.  
+💻 Experienced in both **frontend** and **backend development**, working with **JavaScript, React, Next.js, Astro, Python, Java, Node.js, SQL, and more**.  
+🚀 Passionate about building **user-centric solutions** that create real value.  
+🤝 Always eager to **learn, collaborate, and grow** in the world of software engineering.  
 
 📌 **Check out my portfolio:** [Your Portfolio Link](#)  
 
@@ -10,7 +13,7 @@ Familiar with **agile methodologies** and always eager to learn, collaborate, an
 
 ## 💻 Technologies & Tools  
 
-<div align="left">
+<div align="center">
   <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img alt="React" width="40px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
   <img alt="Next.js" width="40px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/>
@@ -52,5 +55,7 @@ Familiar with **agile methodologies** and always eager to learn, collaborate, an
 ---
 
 ### 🔥 Profile Views  
-<img src="https://komarev.com/ghpvc/?username=miguel-londono&style=flat-square&color=blue" alt="Profile Views Counter"/>  
+<img src="https://komarev.com/ghpvc/?username=miguel-londono&style=flat-square&color=dark" alt="Profile Views Counter"/>  
+
+</div>
 
