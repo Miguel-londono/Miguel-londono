@@ -39,15 +39,13 @@
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-londono&theme=vision-friendly-dark&hide_border=false" />
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-londono&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
 </div>  
 
 ---
 
 ## 📬 Contact Me  
 
-📧 **Email:** [your-email@example.com](miguel.londono.bl@gmail.com)  
+📧 **Email:** [miguel.londono.bl@gmail.com](miguel.londono.bl@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/miguel-londono](https://www.linkedin.com/in/miguel-londoño-252a6a313)  
 🚀 **Portfolio:** [Your Portfolio Link](#)  
 
