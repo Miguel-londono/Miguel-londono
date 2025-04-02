@@ -35,7 +35,11 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel-londono&show_icons=true&theme=vision-friendly-dark" />
+  [![Miguel's Stats](https://github-readme-stats.vercel.app/api?username=Miguel-londono&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-londono&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-londono&theme=vision-friendly-dark&hide_border=false" />
   <br/>
@@ -58,9 +62,5 @@
 
 ### 🔍 My Stats:
 
-[![Miguel's Stats](https://github-readme-stats.vercel.app/api?username=Miguel-londono&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-londono&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
