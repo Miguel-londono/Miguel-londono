@@ -11,6 +11,13 @@
 
 ---
 
+## 📬 Contact Me  
+
+📧 **Email:** [miguel.londono.bl@gmail.com](miguel.londono.bl@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/miguel-londono](https://www.linkedin.com/in/miguel-londoño-252a6a313)  
+🚀 **Portfolio:** [Your Portfolio Link](#)  
+
+---
 ## 💻 Technologies & Tools  
 
 <div align="center">
@@ -39,17 +46,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-londono&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center"
   <br/>
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguel-londono&bg_color=181818&color=58A6FF&line=C3D1D9&point=1F6FEB&hide_border=true&custom_title=GitHub%20Commits%20Graph"/>
+  </a>
+</p>
 </div>  
 ---
-
-## 📬 Contact Me  
-
-📧 **Email:** [miguel.londono.bl@gmail.com](miguel.londono.bl@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/miguel-londono](https://www.linkedin.com/in/miguel-londoño-252a6a313)  
-🚀 **Portfolio:** [Your Portfolio Link](#)  
-
----
-
 ### 🔥 Profile Views  
 <img src="https://komarev.com/ghpvc/?username=miguel-londono&style=flat-square&color=green" alt="Profile Views Counter"/>  
 
