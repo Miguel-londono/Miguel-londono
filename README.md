@@ -39,23 +39,22 @@
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-londono&theme=vision-friendly-dark&hide_border=false" />
   <br/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguel-londono&theme=vision-friendly-dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miguel-londono&theme=vision-friendly-dark" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-londono&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
 </div>  
 
 ---
 
 ## 📬 Contact Me  
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/miguel-londono](https://www.linkedin.com/in/miguel-londono)  
-🐦 **Twitter/X:** [twitter.com/miguel-londono](https://twitter.com/miguel-londono)  
+📧 **Email:** [your-email@example.com](miguel.londono.bl@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/miguel-londono](https://www.linkedin.com/in/miguel-londoño-252a6a313)  
 🚀 **Portfolio:** [Your Portfolio Link](#)  
 
 ---
 
 ### 🔥 Profile Views  
-<img src="https://komarev.com/ghpvc/?username=miguel-londono&style=flat-square&color=dark" alt="Profile Views Counter"/>  
+<img src="https://komarev.com/ghpvc/?username=miguel-londono&style=flat-square&color=green" alt="Profile Views Counter"/>  
 
 </div>
 
