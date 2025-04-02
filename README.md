@@ -1,13 +1,14 @@
 ## Hi, I'm Miguel Londoño! 👋  
 
-A soon-to-be graduate in Systems Engineering with a strong passion for technology and software development. Experienced in both frontend and backend development, with knowledge of **JavaScript, React, Next.js, Astro, Python, Java, Node.js, SQL, and more**.  
+A soon-to-be graduate in Systems Engineering with a strong passion for technology and software development.  
+Experienced in both **frontend** and **backend development**, with knowledge of **JavaScript, React, Next.js, Astro, Python, Java, Node.js, SQL, and more**.  
 Familiar with **agile methodologies** and always eager to learn, collaborate, and build user-centric solutions that add real value. 🚀  
 
 📌 **Check out my portfolio:** [Your Portfolio Link](#)  
 
 ---
 
-### 💻 Technologies & Tools  
+## 💻 Technologies & Tools  
 
 <div align="left">
   <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -28,15 +29,28 @@ Familiar with **agile methodologies** and always eager to learn, collaborate, an
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel-londono&show_icons=true&theme=vision-friendly-dark" />
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-londono&layout=compact&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-londono&theme=vision-friendly-dark&hide_border=false" />
+  <br/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguel-londono&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miguel-londono&theme=vision-friendly-dark" />
 </div>  
 
 ---
 
+## 📬 Contact Me  
+
+📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+💼 **LinkedIn:** [linkedin.com/in/miguel-londono](https://www.linkedin.com/in/miguel-londono)  
+🐦 **Twitter/X:** [twitter.com/miguel-londono](https://twitter.com/miguel-londono)  
+🚀 **Portfolio:** [Your Portfolio Link](#)  
+
+---
+
 ### 🔥 Profile Views  
-<img src="https://komarev.com/ghpvc/?username=miguel-londono&style=flat-square&color=dark" alt="Profile Views Counter"/>  
+<img src="https://komarev.com/ghpvc/?username=miguel-londono&style=flat-square&color=blue" alt="Profile Views Counter"/>  
+
