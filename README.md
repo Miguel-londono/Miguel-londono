@@ -39,9 +39,7 @@
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-londono&theme=vision-friendly-dark&hide_border=false" />
   <br/>
-  
 </div>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-londono)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📬 Contact Me  
@@ -57,3 +55,12 @@
 
 </div>
 
+
+### 🔍 My Stats:
+
+[![Nicolas's Stats](https://github-readme-stats.vercel.app/api?username=nicolas1102&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas1102&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
