@@ -53,7 +53,7 @@
 </p>
 </div>  
 ---
-### 🔥 Profile Views  
+🔥 Profile Views  
 <img src="https://komarev.com/ghpvc/?username=miguel-londono&style=flat-square&color=green" alt="Profile Views Counter"/>  
 
 </div>
